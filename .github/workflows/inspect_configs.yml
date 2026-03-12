@@ -30,4 +30,3 @@ jobs:
         run: |
           pip3 install requests pycryptodome
           python3 inspect_configs.py
-
